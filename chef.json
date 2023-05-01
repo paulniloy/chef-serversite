@@ -2,7 +2,7 @@
     {
       "id": 1,
       "name": "'John Doe'",
-      "picture": "hello",
+      "picture": "https://cdn.choosechicago.com/uploads/2019/06/Frontera-10FEB2016-GALDONES-PHOTOGRAPHY-10-e1565126095339-900x598.jpg",
       "yearsOfExperience": "10",
       "numberOfRecipes": "50",
       "likes": "1000"
@@ -10,15 +10,15 @@
     {
       "id": "2",
       "name": "Jane Smith",
-      "picture": "two",
+      "picture": "https://www.chefspencil.com/wp-content/uploads/Jamie-Oliver.jpg",
       "yearsOfExperience": "5",
       "numberOfRecipes": "30",
       "likes": "500"
     },
     {
-      "id": 3,
-      "name": "Bob Johnson",
-      "picture": "three",
+      "id": "3",
+      "name": "Bikas gupta",
+      "picture": "https://res.cloudinary.com/purnesh/image/upload/w_540,f_auto,q_auto:eco,c_limit/vkhanna.jpg",
       "yearsOfExperience": "15",
       "numberOfRecipes": "80",
       "likes": "2000"
@@ -26,23 +26,23 @@
     {
       "id": "4",
       "name": "Maria Rodriguez",
-      "picture": "four",
+      "picture": "https://cdn.londonandpartners.com/visit/general-london/people/63668-640x360-michel-roux-jr-640.jpg",
       "yearsOfExperience": "7",
       "numberOfRecipes": "40",
       "likes": "800"
     },
     {
-    "id": "4",
+    "id": "5",
       "name": "Maria Dsoza",
-      "picture": "five",
+      "picture": "https://parade.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTkwNTgxMzIyNTY0NzczNzU2/nick-wallace-top-chef.jpg",
       "yearsOfExperience": "8",
       "numberOfRecipes": "12",
       "likes": "1000"
     },
     {
-        "id": "4",
+        "id": "6",
         "name": "Marshad Rodriguez",
-        "picture": "four",
+        "picture": "https://www.awesomecuisine.com/wp-content/uploads/2018/03/sanjeev_kapoor.jpg",
         "yearsOfExperience": "7",
         "numberOfRecipes": "30",
         "likes": "850"
