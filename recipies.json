@@ -1,50 +1,112 @@
 [
     {
-      "category_id": "1",
-      "_id": "1",
-      "ingredient": "Chicken",
-      "name": "Grilled Chicken",
-      "cooking_method": "Grilling",
-      "rating": 4.5
+        "category_id": "1",
+        "_id": "1",
+        "ingredient": "Green papaya Garlic Chili peppers Fish sauce Lime juice Palm sugar Cherry tomatoes Long beans Peanuts",
+        "name": "Som Tam",
+        "cooking_method": "Som Tam is a popular Thai salad that features shredded green papaya, garlic, chili peppers, fish sauce, lime juice, palm sugar, cherry tomatoes, long beans, and chopped peanuts. To prepare this dish, start by peeling and shredding the green papaya. In a large mortar and pestle, pound garlic and chili peppers together until they form a paste. Add fish sauce, lime juice, and palm sugar to the mortar and stir to combine. Add the shredded green papaya, cherry tomatoes, and long beans to the mortar and pound lightly to bruise the vegetables and release their juices. Serve with a sprinkling of chopped peanuts on top.",
+        "rating": 4.5,
+        "image":
+            "https://foodandroad.com/wp-content/uploads/2021/04/green-papaya-salad-mamao-verde-salada-som-tam-4-2.jpg"
     },
     {
-      "category_id": "1",
-      "_id": "2",
-      "ingredient": "Beef",
-      "name": "Beef Stir-Fry",
-      "cooking_method": "Stir-Fry",
-      "rating": 4.2
+        "category_id": "1",
+        "_id": "2",
+        "ingredient": "mix of shallots, garlic, chili peppers, fish sauce, and lime juice, and then finished off with toasted rice powder, green onions, and cilantro.",
+        "name": "Laab",
+        "cooking_method": "Laab is a savory and spicy Thai salad that is typically made with ground pork or chicken, shallots, garlic, chili peppers, fish sauce, lime juice, and toasted rice powder. To prepare this dish, start by cooking ground pork or chicken in a skillet over medium-high heat until browned and cooked through. Add finely chopped shallots, garlic, and chili peppers to the skillet and cook for a few minutes until fragrant. Remove from heat and stir in fish sauce and lime juice. Add toasted rice powder to the mixture and stir to combine. Garnish with sliced green onions and cilantro.",
+        "rating": 4.2,
+        "image":
+            "https://foodandroad.com/wp-content/uploads/2021/04/green-papaya-salad-mamao-verde-salada-som-tam-4-2.jpg"
     },
     {
-      "category_id": "2",
-      "_id": "3",
-      "ingredient": "Salmon",
-      "name": "Baked Salmon",
-      "cooking_method": "Baking",
-      "rating": 4.8
+        "category_id": "1",
+        "_id": "3",
+        "ingredient": "rice, chicken broth, ginger, garlic, soy sauce, fish sauce, white pepper, and your choice of meat, typically chicken or pork.",
+        "name": "Jok",
+        "cooking_method": "Jok is a popular Thai rice porridge that is typically served for breakfast. To make the dish, first, rinse the rice and cook it in a pot with chicken broth, ginger, garlic, and a pinch of white pepper. As the rice cooks, stir it frequently until it becomes thick and creamy. Then, add diced chicken or pork to the pot and continue cooking until the meat is fully cooked. Season the dish with soy sauce, fish sauce, and more white pepper to taste. Top with green onions, cilantro, fried garlic, and a drizzle of sesame oil before serving.",
+        "rating": 4.8,
+        "image":
+            "https://foodandroad.com/wp-content/uploads/2021/04/green-papaya-salad-mamao-verde-salada-som-tam-4-2.jpg"
     },
     {
-      "category_id": "2",
-      "_id": "4",
-      "ingredient": "Pork",
-      "name": "Pork Chops",
-      "cooking_method": "Pan-Frying",
-      "rating": 4.2
+        "category_id": "1",
+        "_id": "4",
+        "ingredients": [
+            "flat rice noodles, Chinese broccoli, soy sauce, oyster sauce, garlic, and meat (usually chicken, beef, or pork). "
+        ],
+        "cooking_method": " Pad See Ew is made by stir-frying rice noodles with dark soy sauce and a mix of meats and vegetables in a wok or a large frying pan. The noodles are quickly stir-fried over high heat, which gives them a smoky flavor.",
+        "name": "Pad See Ew",
+        "rating": 4.2,
+        "image":
+            "https://foodandroad.com/wp-content/uploads/2021/04/green-papaya-salad-mamao-verde-salada-som-tam-4-2.jpg"
     },
     {
-      "category_id": "3",
-      "_id": "5",
-      "ingredient": "Shrimp",
-      "name": "Shrimp Scampi",
-      "cooking_method": "Sauteeing",
-      "rating": 4.7
+        "category_id": "1",
+        "_id": "4",
+        "ingredients": [
+            "flat rice noodles, Chinese broccoli, soy sauce, oyster sauce, garlic, and meat (usually chicken, beef, or pork). "
+        ],
+        "cooking_method": " Pad See Ew is made by stir-frying rice noodles with dark soy sauce and a mix of meats and vegetables in a wok or a large frying pan. The noodles are quickly stir-fried over high heat, which gives them a smoky flavor.",
+        "name": "Pad See Ew",
+        "rating": 4.2,
+        "image":
+            "https://foodandroad.com/wp-content/uploads/2021/04/green-papaya-salad-mamao-verde-salada-som-tam-4-2.jpg"
     },
     {
-      "category_id": "3",
-      "_id": "6",
-      "ingredient": "Tofu",
-      "name": "Tofu Curry",
-      "cooking_method": "Simmering",
-      "rating": 4.1
+        "category_id": "1",
+        "_id": "4",
+        "ingredients": [
+            "flat rice noodles, Chinese broccoli, soy sauce, oyster sauce, garlic, and meat (usually chicken, beef, or pork). "
+        ],
+        "cooking_method": " Pad See Ew is made by stir-frying rice noodles with dark soy sauce and a mix of meats and vegetables in a wok or a large frying pan. The noodles are quickly stir-fried over high heat, which gives them a smoky flavor.",
+        "name": "Pad See Ew",
+        "rating": 4.2,
+        "image": [
+            "https://foodandroad.com/wp-content/uploads/2021/04/green-papaya-salad-mamao-verde-salada-som-tam-4-2.jpg",
+            "https://foodandroad.com/wp-content/uploads/2021/04/laab-larb-3.jpg"
+        ]
+    },
+    {
+        "category_id": "1",
+        "_id": "4",
+        "ingredients": [
+            "flat rice noodles, Chinese broccoli, soy sauce, oyster sauce, garlic, and meat (usually chicken, beef, or pork). "
+        ],
+        "cooking_method": " Pad See Ew is made by stir-frying rice noodles with dark soy sauce and a mix of meats and vegetables in a wok or a large frying pan. The noodles are quickly stir-fried over high heat, which gives them a smoky flavor.",
+        "name": "Pad See Ew",
+        "rating": 4.2,
+        "image": [
+            "https://foodandroad.com/wp-content/uploads/2021/04/green-papaya-salad-mamao-verde-salada-som-tam-4-2.jpg",
+            "https://foodandroad.com/wp-content/uploads/2021/04/laab-larb-3.jpg"
+        ]
+    },
+    {
+        "category_id": "1",
+        "_id": "4",
+        "ingredients": [
+            "flat rice noodles, Chinese broccoli, soy sauce, oyster sauce, garlic, and meat (usually chicken, beef, or pork). "
+        ],
+        "cooking_method": " Pad See Ew is made by stir-frying rice noodles with dark soy sauce and a mix of meats and vegetables in a wok or a large frying pan. The noodles are quickly stir-fried over high heat, which gives them a smoky flavor.",
+        "name": "Pad See Ew",
+        "rating": 4.2,
+        "image": [
+            "https://foodandroad.com/wp-content/uploads/2021/04/green-papaya-salad-mamao-verde-salada-som-tam-4-2.jpg",
+            "https://foodandroad.com/wp-content/uploads/2021/04/laab-larb-3.jpg"
+        ]
+    },
+    {
+        "category_id": "1",
+        "_id": "4",
+        "ingredients": [
+            "flat rice noodles, Chinese broccoli, soy sauce, oyster sauce, garlic, and meat (usually chicken, beef, or pork). "
+        ],
+        "cooking_method": " Pad See Ew is made by stir-frying rice noodles with dark soy sauce and a mix of meats and vegetables in a wok or a large frying pan. The noodles are quickly stir-fried over high heat, which gives them a smoky flavor.",
+        "name": "Pad See Ew",
+        "rating": 4.2,
+        "image": [
+            "https://foodandroad.com/wp-content/uploads/2021/04/green-papaya-salad-mamao-verde-salada-som-tam-4-2.jpg",
+            "https://foodandroad.com/wp-content/uploads/2021/04/laab-larb-3.jpg"
+        ]
     }
-  ]
+]

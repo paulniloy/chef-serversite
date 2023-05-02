@@ -1,28 +1,20 @@
 [
     {
       "id": "1",
-      "name": "'John Doe'",
+      "name": "John Doe",
       "picture": "https://cdn.choosechicago.com/uploads/2019/06/Frontera-10FEB2016-GALDONES-PHOTOGRAPHY-10-e1565126095339-900x598.jpg",
       "yearsOfExperience": "10",
-      "numberOfRecipes": "2",
-      "likes": "1000",
-      "recipies" : ["Som Tam : It is also known as papaya salad is a spicy and sour salad made with shredded unripe papaya tomatoes chili peppers lime juice fish sauce and palm sugar. Other ingredients such as shrimp, peanuts and green beans can also be added for additional flavor and texture. Som Tam is commonly served as a side dish or as a main course with sticky rice.", "Laab : Laab, also spelled Larb or Laap, is a spicy minced meat salad that originated from the northeastern region of Thailand. The dish can be made with various types of meat, such as chicken, beef, or pork, that are minced and cooked with a combination of herbs and spices, including chili peppers, mint leaves, lime juice, and fish sauce. Some variations also include toasted rice powder for a nutty flavor and crispy texture. Laab is typically served with fresh vegetables and sticky rice."],
-      "bio" : "With over 20 years of culinary experience, Chef John is a master at creating delicious and visually stunning dishes. He is known for his use of fresh, seasonal ingredients and innovative cooking techniques.",
-      "image" : ["https://foodandroad.com/wp-content/uploads/2021/04/green-papaya-salad-mamao-verde-salada-som-tam-4-2.jpg", "https://foodandroad.com/wp-content/uploads/2021/04/laab-larb-3.jpg"],
-      "food" : [
-        {"id" : "1", "reci" : ["holud","morich","oil"]},
-        {"id" : "2", "reci" : ["ada","morich","oil"]}
-        
-      ]
+      "numberOfRecipes": "4",
+      "likes": "700k",
+      "bio" : "With over 20 years of culinary experience, Chef John is a master at creating delicious and visually stunning dishes. He is known for his use of fresh, seasonal ingredients and innovative cooking techniques."
     },
     {
       "id": "2",
       "name": "Jane Smith",
       "picture": "https://www.chefspencil.com/wp-content/uploads/Jamie-Oliver.jpg",
       "yearsOfExperience": "5",
-      "numberOfRecipes": "2",
-      "likes": "500",
-      "recipies" : ["Jok : Jok is a rice porridge widely consumed in Bangkok for breakfast. This delicious dishes secret is in a good broth added with chopping pork, chives, cilantro, fried garlic, ginger, and lemon to finish a healthy way to start the day.", "Pad Thai : A includes rice noodles stir-fried with eggs and tofu, seasoned with tamarind juice, fish sauce, dried shrimp, garlic, onion, pepper, and palm sugar. It is usually served with bean sprouts, lemon slices, and roasted peanuts. Many variations add fresh shrimp, chicken, or pork."],
+      "numberOfRecipes": "5",
+      "likes": "500k",
       "bio" : "Chef Jane Smith's passion for Italian cuisine stems from her upbringing in Italy. She uses traditional techniques and family recipes to create authentic and comforting dishes.",
       "image_one" : ["https://foodandroad.com/wp-content/uploads/2021/04/jok-rice-porridge-2.jpg", "https://foodandroad.com/wp-content/uploads/2021/04/pad-thai-3.jpg"]
     },
@@ -31,9 +23,8 @@
       "name": "Bikas Gupta",
       "picture": "https://res.cloudinary.com/purnesh/image/upload/w_540,f_auto,q_auto:eco,c_limit/vkhanna.jpg",
       "yearsOfExperience": "15",
-      "numberOfRecipes": "3",
-      "likes": "2000",
-      "recipies" : ["Pad see Ew : Unlike Pad Thai, Pad See Ew is made with a much larger rice noodle. The noodle is stir-fried with plenty of soy sauce, meat, egg, tofu, and Chinese broccoli.", "Ba Mee Keiw : Delicious egg noodles made with wonton and usually accompanied by beautiful slices of pork belly. Wonton is a Cantonese dumpling filled with meat and widely consumed throughout Asia. You can choose between Dry Wonton Noodles or Wonton Noodle Soup. In the soup version, the ingredients come immersed in a clear broth while in the dry version the broth comes in a separate bowl.", "Gai Yung : Gai Yang is grilled marinated chicken. The ever crispy skin, juicy meat, and sauces on the side make it a true delight! To accompany the gai yang, we love ordering a portion of sticky rice and green papaya salad."],
+      "numberOfRecipes": "4",
+      "likes": "200k",
       "bio" : "Chef Bikas Gupta brings the flavors of the Middle East to his dishes, using bold spices and vibrant ingredients to create unforgettable meals."
     },
     {
@@ -41,9 +32,8 @@
       "name": "Maria Rodriguez",
       "picture": "https://cdn.londonandpartners.com/visit/general-london/people/63668-640x360-michel-roux-jr-640.jpg",
       "yearsOfExperience": "7",
-      "numberOfRecipes": "2",
-      "likes": "800",
-      "recipies" : ["Sai Oua : Typical of Northern Thailand, Sai Oua (Northern Thai Sausage) is a spicy sausage. This sausage is prepared with ground pork, spices, and herbs, for example, lemongrass, which brings a very intense and fresh flavor to it. Excellent Thai snack to have with a beer. If you order as a main meal, don’t forget the sticky rice as a side dish.", "Hor Mok Pla : Hor Mok Pla looks more like a steamed fish souffle made with coconut cream, curry paste, and kaffir lime."],
+      "numberOfRecipes": "6",
+      "likes": "800k",
       "bio" : "Chef Maria's French-inspired dishes are both elegant and comforting. She uses classic techniques and simple ingredients to create dishes that are both delicious and approachable."
     },
     {
@@ -51,9 +41,8 @@
       "name": "Maria Dsoza",
       "picture": "https://parade.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTkwNTgxMzIyNTY0NzczNzU2/nick-wallace-top-chef.jpg",
       "yearsOfExperience": "8",
-      "numberOfRecipes": "3",
-      "likes": "1000",
-      "recipies" : ["Hoi Tod : Super crispy oyster omelet at a popular price and served as street food. The origin is Chinese, but it is pretty famous on the streets of Bangkok. The crispness is due to the rice flour, which is added to the omelet dough. There is also a version with mussels instead of oysters.", "Pad Kra Pao : Pad Kra Pao is a meat stew, usually chicken or pork, with Thai holy basil accompanied by a portion of rice and a fried egg. A quick dish with a lot of food and a delicious aroma of basil.", "pa Plo : Pla Plao is a fish covered with coarse salt, stuffed with lemongrass, and grilled over hot coals. "],
+      "numberOfRecipes": "4",
+      "likes": "100k",
       "bio" : "The thai heritage is the inspiration behind his flavorful dishes. He uses traditional techniques and local ingredients to create dishes that are both authentic and creative."
     },
     {
@@ -61,9 +50,8 @@
         "name": "Marshad Rodriguez",
         "picture": "https://www.awesomecuisine.com/wp-content/uploads/2018/03/sanjeev_kapoor.jpg",
         "yearsOfExperience": "7",
-        "numberOfRecipes": "2",
-        "likes": "850",
-        "recipies" : ["Kaeng Som : Kaeng Som is known as Sour Curry. This Thai curry is very popular in southern Thailand, where sour tastes satisfy most local palates. " , "Khao Soi : Khao Soi is a delicious chicken or beef soup made with egg noodles in two textures: cooked in the broth and another portion fried and served on top of the soup.", "Panang Curry :The interaction of southern Thailand with northern Malaysia created another dish that is a must-eat food in Thailand."],
+        "numberOfRecipes": "5",
+        "likes": "850k",
         "bio" : "Chef Chloe's vegetarian dishes are both healthy and delicious. She uses fresh produce and creative flavor combinations to create meals that are both satisfying and nourishing."
     }
   ]
