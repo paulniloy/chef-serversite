@@ -6,7 +6,8 @@
       "yearsOfExperience": "10",
       "numberOfRecipes": "2",
       "likes": "1000",
-      "recipies" : ["Som Tam", "Laab"]
+      "recipies" : ["Som Tam", "Laab"],
+      "bio" : "With over 20 years of culinary experience, Chef John is a master at creating delicious and visually stunning dishes. He is known for his use of fresh, seasonal ingredients and innovative cooking techniques."
     },
     {
       "id": "2",
@@ -15,16 +16,18 @@
       "yearsOfExperience": "5",
       "numberOfRecipes": "2",
       "likes": "500",
-      "recipies" : ["Jok", "Pad Thai"]
+      "recipies" : ["Jok", "Pad Thai"],
+      "bio" : "Chef Jane Smith's passion for Italian cuisine stems from her upbringing in Italy. She uses traditional techniques and family recipes to create authentic and comforting dishes."
     },
     {
       "id": "3",
-      "name": "Bikas gupta",
+      "name": "Bikas Gupta",
       "picture": "https://res.cloudinary.com/purnesh/image/upload/w_540,f_auto,q_auto:eco,c_limit/vkhanna.jpg",
       "yearsOfExperience": "15",
       "numberOfRecipes": "3",
       "likes": "2000",
-      "recipies" : ["Pad see Ew", "Ba Mee Keiw", "Gai Yung"]
+      "recipies" : ["Pad see Ew", "Ba Mee Keiw", "Gai Yung"],
+      "bio" : "Chef Bikas Gupta brings the flavors of the Middle East to his dishes, using bold spices and vibrant ingredients to create unforgettable meals."
     },
     {
       "id": "4",
@@ -33,7 +36,8 @@
       "yearsOfExperience": "7",
       "numberOfRecipes": "2",
       "likes": "800",
-      "recipies" : ["Sai Oua", "Hor Mok Pla"]
+      "recipies" : ["Sai Oua", "Hor Mok Pla"],
+      "bio" : "Chef Maria's French-inspired dishes are both elegant and comforting. She uses classic techniques and simple ingredients to create dishes that are both delicious and approachable."
     },
     {
     "id": "5",
@@ -42,7 +46,8 @@
       "yearsOfExperience": "8",
       "numberOfRecipes": "3",
       "likes": "1000",
-      "recipies" : ["Hoi Tod", "Pad Kra Pao", "Pla Plao"]
+      "recipies" : ["Hoi Tod", "Pad Kra Pao", "Pla Plao"],
+      "bio" : "The thai heritage is the inspiration behind his flavorful dishes. He uses traditional techniques and local ingredients to create dishes that are both authentic and creative."
     },
     {
         "id": "6",
@@ -51,6 +56,7 @@
         "yearsOfExperience": "7",
         "numberOfRecipes": "2",
         "likes": "850",
-        "recipies" : ["Kaeng Som", "Khao Soi", "Panang Curry"]
+        "recipies" : ["Kaeng Som", "Khao Soi", "Panang Curry"],
+        "bio" : "Chef Chloe's vegetarian dishes are both healthy and delicious. She uses fresh produce and creative flavor combinations to create meals that are both satisfying and nourishing."
     }
   ]
