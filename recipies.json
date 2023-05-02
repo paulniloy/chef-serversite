@@ -1,0 +1,50 @@
+[
+    {
+      "category_id": "1",
+      "_id": "1",
+      "ingredient": "Chicken",
+      "name": "Grilled Chicken",
+      "cooking_method": "Grilling",
+      "rating": 4.5
+    },
+    {
+      "category_id": "1",
+      "_id": "2",
+      "ingredient": "Beef",
+      "name": "Beef Stir-Fry",
+      "cooking_method": "Stir-Fry",
+      "rating": 4.2
+    },
+    {
+      "category_id": "2",
+      "_id": "3",
+      "ingredient": "Salmon",
+      "name": "Baked Salmon",
+      "cooking_method": "Baking",
+      "rating": 4.8
+    },
+    {
+      "category_id": "2",
+      "_id": "4",
+      "ingredient": "Pork",
+      "name": "Pork Chops",
+      "cooking_method": "Pan-Frying",
+      "rating": 4.2
+    },
+    {
+      "category_id": "3",
+      "_id": "5",
+      "ingredient": "Shrimp",
+      "name": "Shrimp Scampi",
+      "cooking_method": "Sauteeing",
+      "rating": 4.7
+    },
+    {
+      "category_id": "3",
+      "_id": "6",
+      "ingredient": "Tofu",
+      "name": "Tofu Curry",
+      "cooking_method": "Simmering",
+      "rating": 4.1
+    }
+  ]
