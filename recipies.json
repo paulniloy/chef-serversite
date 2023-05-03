@@ -5,7 +5,7 @@
         "ingredient": "Green papaya Garlic Chili peppers Fish sauce Lime juice Palm sugar Cherry tomatoes Long beans Peanuts",
         "name": "Som Tam",
         "cooking_method": "Som Tam is a popular Thai salad that features shredded green papaya, garlic, chili peppers, fish sauce, lime juice, palm sugar, cherry tomatoes, long beans, and chopped peanuts. To prepare this dish, start by peeling and shredding the green papaya. In a large mortar and pestle, pound garlic and chili peppers together until they form a paste. Add fish sauce, lime juice, and palm sugar to the mortar and stir to combine. Add the shredded green papaya, cherry tomatoes, and long beans to the mortar and pound lightly to bruise the vegetables and release their juices. Serve with a sprinkling of chopped peanuts on top.",
-        "rating": 4.5,
+        "rating": 4.6,
         "image":
             "https://foodandroad.com/wp-content/uploads/2021/04/green-papaya-salad-mamao-verde-salada-som-tam-4-2.jpg"
     },
@@ -15,98 +15,302 @@
         "ingredient": "mix of shallots, garlic, chili peppers, fish sauce, and lime juice, and then finished off with toasted rice powder, green onions, and cilantro.",
         "name": "Laab",
         "cooking_method": "Laab is a savory and spicy Thai salad that is typically made with ground pork or chicken, shallots, garlic, chili peppers, fish sauce, lime juice, and toasted rice powder. To prepare this dish, start by cooking ground pork or chicken in a skillet over medium-high heat until browned and cooked through. Add finely chopped shallots, garlic, and chili peppers to the skillet and cook for a few minutes until fragrant. Remove from heat and stir in fish sauce and lime juice. Add toasted rice powder to the mixture and stir to combine. Garnish with sliced green onions and cilantro.",
-        "rating": 4.2,
+        "rating": 4.9,
         "image":
-            "https://foodandroad.com/wp-content/uploads/2021/04/green-papaya-salad-mamao-verde-salada-som-tam-4-2.jpg"
+            "https://foodandroad.com/wp-content/uploads/2021/04/laab-larb-3.jpg"
     },
     {
         "category_id": "1",
         "_id": "3",
         "ingredient": "rice, chicken broth, ginger, garlic, soy sauce, fish sauce, white pepper, and your choice of meat, typically chicken or pork.",
         "name": "Jok",
-        "cooking_method": "Jok is a popular Thai rice porridge that is typically served for breakfast. To make the dish, first, rinse the rice and cook it in a pot with chicken broth, ginger, garlic, and a pinch of white pepper. As the rice cooks, stir it frequently until it becomes thick and creamy. Then, add diced chicken or pork to the pot and continue cooking until the meat is fully cooked. Season the dish with soy sauce, fish sauce, and more white pepper to taste. Top with green onions, cilantro, fried garlic, and a drizzle of sesame oil before serving.",
+        "cooking_method": "To make the dish, first, rinse the rice and cook it in a pot with chicken broth, ginger, garlic, and a pinch of white pepper. As the rice cooks, stir it frequently until it becomes thick and creamy. Then, add diced chicken or pork to the pot and continue cooking until the meat is fully cooked. Season the dish with soy sauce, fish sauce, and more white pepper to taste. Top with green onions, cilantro, fried garlic, and a drizzle of sesame oil before serving.",
         "rating": 4.8,
         "image":
-            "https://foodandroad.com/wp-content/uploads/2021/04/green-papaya-salad-mamao-verde-salada-som-tam-4-2.jpg"
+            "https://foodandroad.com/wp-content/uploads/2021/04/jok-rice-porridge-2.jpg"
     },
     {
         "category_id": "1",
         "_id": "4",
-        "ingredients": [
-            "flat rice noodles, Chinese broccoli, soy sauce, oyster sauce, garlic, and meat (usually chicken, beef, or pork). "
-        ],
-        "cooking_method": " Pad See Ew is made by stir-frying rice noodles with dark soy sauce and a mix of meats and vegetables in a wok or a large frying pan. The noodles are quickly stir-fried over high heat, which gives them a smoky flavor.",
-        "name": "Pad See Ew",
-        "rating": 4.2,
+        "ingredient":
+            "flat rice noodles, Chinese broccoli, soy sauce, oyster sauce, garlic, and meat (usually chicken, beef, or pork). ",
+        "cooking_method": "Pad Thai are stir-fried together in a wok using a high heat. The dish is typically made by stir-frying the noodles, tofu, shrimp or chicken, bean sprouts, eggs, and various sauces together.",
+        "name": "Pad Thai",
+        "rating": 4.5,
         "image":
-            "https://foodandroad.com/wp-content/uploads/2021/04/green-papaya-salad-mamao-verde-salada-som-tam-4-2.jpg"
+            "https://foodandroad.com/wp-content/uploads/2021/04/pad-thai-3.jpg"
     },
     {
-        "category_id": "1",
+        "category_id": "2",
         "_id": "4",
-        "ingredients": [
+        "ingredient": [
             "flat rice noodles, Chinese broccoli, soy sauce, oyster sauce, garlic, and meat (usually chicken, beef, or pork). "
         ],
         "cooking_method": " Pad See Ew is made by stir-frying rice noodles with dark soy sauce and a mix of meats and vegetables in a wok or a large frying pan. The noodles are quickly stir-fried over high heat, which gives them a smoky flavor.",
         "name": "Pad See Ew",
-        "rating": 4.2,
+        "rating": 4.8,
         "image":
-            "https://foodandroad.com/wp-content/uploads/2021/04/green-papaya-salad-mamao-verde-salada-som-tam-4-2.jpg"
+            "https://foodandroad.com/wp-content/uploads/2021/04/pad-see-ew-2.jpg"
     },
     {
-        "category_id": "1",
+        "category_id": "2",
         "_id": "4",
-        "ingredients": [
-            "flat rice noodles, Chinese broccoli, soy sauce, oyster sauce, garlic, and meat (usually chicken, beef, or pork). "
+        "ingredient": [
+            "rice noodles, tender beef slices, bean sprouts, Chinese kale, cilantro, and flavored with garlic, soy sauce, fish sauce, and other spices. It's often served with a side of chili flakes, fresh lime wedges, and chopped green onions."
         ],
-        "cooking_method": " Pad See Ew is made by stir-frying rice noodles with dark soy sauce and a mix of meats and vegetables in a wok or a large frying pan. The noodles are quickly stir-fried over high heat, which gives them a smoky flavor.",
-        "name": "Pad See Ew",
-        "rating": 4.2,
+        "cooking_method": "Kuay Teow Neua is made by boiling flat rice noodles, slicing them, and then stir-frying them with beef, garlic, onions, and various sauces.",
+        "name": "Kuay Teow Neua",
+        "rating": 5.0,
         "image": [
-            "https://foodandroad.com/wp-content/uploads/2021/04/green-papaya-salad-mamao-verde-salada-som-tam-4-2.jpg",
-            "https://foodandroad.com/wp-content/uploads/2021/04/laab-larb-3.jpg"
+            "https://foodandroad.com/wp-content/uploads/2021/04/kuay-teow-neua-beef-noodle-soup-2.jpg"
         ]
     },
     {
-        "category_id": "1",
+        "category_id": "2",
         "_id": "4",
-        "ingredients": [
-            "flat rice noodles, Chinese broccoli, soy sauce, oyster sauce, garlic, and meat (usually chicken, beef, or pork). "
+        "ingredient": [
+            "egg noodles, meat (usually pork or chicken), and a savory broth made with soy sauce, garlic, sugar, and other seasonings. It's often topped with crispy garlic, sliced green onions, and chopped cilantro.c"
         ],
-        "cooking_method": " Pad See Ew is made by stir-frying rice noodles with dark soy sauce and a mix of meats and vegetables in a wok or a large frying pan. The noodles are quickly stir-fried over high heat, which gives them a smoky flavor.",
-        "name": "Pad See Ew",
-        "rating": 4.2,
+        "cooking_method": "Ba Mee Kiew is made by boiling egg noodles and then mixing them with various meats, vegetables, and sauces.",
+        "name": "Ba Mee Kiew",
+        "rating": 4.9,
         "image": [
-            "https://foodandroad.com/wp-content/uploads/2021/04/green-papaya-salad-mamao-verde-salada-som-tam-4-2.jpg",
-            "https://foodandroad.com/wp-content/uploads/2021/04/laab-larb-3.jpg"
+            "https://foodandroad.com/wp-content/uploads/2021/04/bami-kiao-wonton-2.jpg"
         ]
     },
     {
-        "category_id": "1",
+        "category_id": "2",
         "_id": "4",
-        "ingredients": [
-            "flat rice noodles, Chinese broccoli, soy sauce, oyster sauce, garlic, and meat (usually chicken, beef, or pork). "
+        "ingredient": [
+            "sticky rice dish that's often served with grilled meats, curries, and salads. The rice is soaked, steamed, and then flavored with coconut milk, salt, and sugar. It's often served in small baskets made from bamboo leaves."
         ],
-        "cooking_method": " Pad See Ew is made by stir-frying rice noodles with dark soy sauce and a mix of meats and vegetables in a wok or a large frying pan. The noodles are quickly stir-fried over high heat, which gives them a smoky flavor.",
-        "name": "Pad See Ew",
-        "rating": 4.2,
+        "cooking_method": "Kha Niao is made by steaming sticky rice in a bamboo basket or pot. It is usually served with a variety of Thai dishes, such as grilled meats, curries, or stir-fried vegetables.",
+        "name": "Kha Niao",
+        "rating": 4.7,
         "image": [
-            "https://foodandroad.com/wp-content/uploads/2021/04/green-papaya-salad-mamao-verde-salada-som-tam-4-2.jpg",
-            "https://foodandroad.com/wp-content/uploads/2021/04/laab-larb-3.jpg"
+            "https://foodandroad.com/wp-content/uploads/2021/04/arroz-glutinoso-sticky-rice-2.jpg"
         ]
     },
     {
-        "category_id": "1",
+        "category_id": "2",
         "_id": "4",
-        "ingredients": [
-            "flat rice noodles, Chinese broccoli, soy sauce, oyster sauce, garlic, and meat (usually chicken, beef, or pork). "
+        "ingredient": [
+            "garlic, chili peppers, and sweet basil leaves. It's stir-fried in a hot wok and flavored with fish sauce, oyster sauce, and other seasonings. It's often served with steamed rice."
         ],
-        "cooking_method": " Pad See Ew is made by stir-frying rice noodles with dark soy sauce and a mix of meats and vegetables in a wok or a large frying pan. The noodles are quickly stir-fried over high heat, which gives them a smoky flavor.",
-        "name": "Pad See Ew",
-        "rating": 4.2,
+        "cooking_method": "Gai Yong is a deep-fried dish made by coating shrimp or squid with flour and deep-frying it until crispy. It is typically served as an appetizer or a side dish.",
+        "name": "Gai Yong",
+        "rating": 4.8,
         "image": [
-            "https://foodandroad.com/wp-content/uploads/2021/04/green-papaya-salad-mamao-verde-salada-som-tam-4-2.jpg",
-            "https://foodandroad.com/wp-content/uploads/2021/04/laab-larb-3.jpg"
+            "https://foodandroad.com/wp-content/uploads/2021/04/gai-yang-2.jpg"
+        ]
+    },
+    {
+        "category_id": "3",
+        "_id": "4",
+        "ingredient": [
+            "The fish is often stuffed with lemongrass, kaffir lime leaves, garlic, and other herbs, and then grilled until crispy and golden brown. It's often served with a spicy dipping sauce made with chili peppers, lime juice, and fish sauce."
+        ],
+        "cooking_method": "Pla Plao is made by grilling a whole fish that is stuffed with lemongrass, garlic, and other herbs. The fish is usually served with a spicy dipping sauce.",
+        "name": "Pla Plao",
+        "rating": 5.0,
+        "image": [
+            "https://foodandroad.com/wp-content/uploads/2021/04/pra-plao-2.jpg"
+        ]
+    },
+    {
+        "category_id": "3",
+        "_id": "4",
+        "ingredient": [
+            "The chicken is marinated with soy sauce, garlic, and other seasonings, and then wrapped in pandan leaves before being deep-fried until crispy and golden brown. It's often served with a sweet chili dipping sauce."
+        ],
+        "cooking_method": "Gai Hor Bai Toey is made by marinating chicken in a mixture of soy sauce, garlic, coriander, and other spices, and then wrapping it in pandan leaves before grilling or baking it.",
+        "name": "Gai Hor Bai Toey",
+        "rating": 4.9,
+        "image": [
+            "https://foodandroad.com/wp-content/uploads/2021/04/chicken-pandan-leaves-2.jpg"
+        ]
+    },
+    {
+        "category_id": "3",
+        "_id": "4",
+        "ingredient": [
+            "Sui Oua is a Northern Thai sausage made with pork, lemongrass, kaffir lime leaves, garlic, and other herbs and spices. It's often grilled or fried until crispy and served with fresh vegetables and sticky rice."
+        ],
+        "cooking_method": "Sui Oua is a type of sausage that is made by grinding pork meat and mixing it with various herbs and spices before being stuffed into casings and grilled or fried.",
+        "name": "Sui Oua",
+        "rating": 4.8,
+        "image": [
+            "https://foodandroad.com/wp-content/uploads/2021/04/sai-oua-2.jpg"
+        ]
+    },
+    {
+        "category_id": "3",
+        "_id": "4",
+        "ingredient": [
+            "Hor Mok Pla is a fish curry dish that's made with fresh fish, curry paste, coconut milk, and other seasonings. It's often steamed in banana leaves until it's firm and then served with steamed rice."
+        ],
+        "cooking_method": " Hor Mok Pla is a type of fish curry that is typically made by mixing fish, red curry paste, coconut milk, and various spices together before being steamed in a banana leaf.",
+        "name": "Hor Mok Pla",
+        "rating": 4.9,
+        "image": [
+            "https://foodandroad.com/wp-content/uploads/2021/04/hor-mok-pla-2.jpg"
+        ]
+    },
+    {
+        "category_id": "4",
+        "_id": "4",
+        "ingredient": [
+            "Hoi Tod is a Thai oyster omelet made with fresh oysters, eggs, garlic, cilantro, and other seasonings. It's often served with a spicy dipping sauce made with chili peppers, lime juice, and fish sauce."
+        ],
+        "cooking_method": "Hoi Tod is a type of omelet that is made by mixing eggs, flour, oysters, and bean sprouts together and then frying it until crispy. It is usually served with a sweet and sour dipping sauce.",
+        "name": "Hoi Tod",
+        "rating": 4.9,
+        "image": [
+            "https://foodandroad.com/wp-content/uploads/2021/04/hoi-tod-oyster-omelette-2.jpg"
+        ]
+    },
+    {
+        "category_id": "4",
+        "_id": "4",
+        "ingredient": [
+            "chicken, garlic, chili, soy sauce, fish sauce, sugar"
+        ],
+        "cooking_method": "This is a stir-fry dish that is made by quickly cooking minced meat (usually pork or chicken) with Thai holy basil, garlic, chili, and oyster sauce. The dish is usually served with steamed rice and a fried egg on top.",
+        "name": "Pad Kra Pao",
+        "rating": 4.9,
+        "image": [
+            "https://foodandroad.com/wp-content/uploads/2021/04/pad-kra-pao-rice-1-1024x683.jpg"
+        ]
+    },
+    {
+        "category_id": "4",
+        "_id": "4",
+        "ingredient": [
+            "soy sauce, cinnamon, star anise, and other spices. It's served with rice, boiled eggs, and a tangy chili-vinegar sauce."
+        ],
+        "cooking_method": "This is a popular Thai street food dish that consists of braised pork leg served with steamed rice and a boiled egg. The pork leg is cooked with soy sauce, cinnamon, star anise, garlic, and palm sugar until it is tender and flavorful.",
+        "name": "Khao Kha Moo",
+        "rating": 4.9,
+        "image": [
+            "https://foodandroad.com/wp-content/uploads/2021/04/khao-kha-moo-2.jpg"
+        ]
+    },
+    {
+        "category_id": "4",
+        "_id": "4",
+        "ingredient": [
+            "shrimp paste, garlic, chilies, fish sauce, sugar, and a variety of vegetables like shallots, cucumbers, and green beans."
+        ],
+        "cooking_method": "This is a fried rice dish that is made by stir-frying rice with shrimp paste, fish sauce, sugar, and chili paste. The rice is then served with a variety of accompaniments, including sliced cucumber, green beans, and fried egg.",
+        "name": "Khao Kluk Kapi",
+        "rating": 4.9,
+        "image": [
+            "https://foodandroad.com/wp-content/uploads/2021/04/khao-kluk-kapi-2.jpg"
+        ]
+    },
+    {
+        "category_id": "5",
+        "_id": "4",
+        "ingredient": [
+            "made with a variety of spices like cumin, coriander, cardamom, and cinnamon."
+        ],
+        "cooking_method": "This is a Thai version of chicken biryani. The dish is made by marinating chicken in a mixture of spices, including turmeric, cumin, coriander, and cinnamon. The chicken is then cooked with rice and served with a side of cucumber salad.",
+        "name": "Khao Mok Gai",
+        "rating": 4.9,
+        "image": [
+            "https://foodandroad.com/wp-content/uploads/2021/04/khao-mok-gai-thai-biryani-2.jpg"
+        ]
+    },
+    {
+        "category_id": "5",
+        "_id": "4",
+        "ingredient": [
+            "yellow curry paste, coconut milk, and a variety of vegetables like carrots, onions, and peas. It's typically served with a fried egg on top."
+        ],
+        "cooking_method": "This is a yellow curry fried rice dish that is made by stir-frying rice with curry powder, chicken, and vegetables. The dish is often served with a side of sliced cucumber.",
+        "name": "Kha Pad Kaeng Kari",
+        "rating": 4.9,
+        "image": [
+            "https://foodandroad.com/wp-content/uploads/2021/04/khao-pad-fried-rice-2.jpg"
+        ]
+    },
+    {
+        "category_id": "5",
+        "_id": "4",
+        "ingredient": [
+            "green curry paste, coconut milk, chicken or beef, and a variety of vegetables like eggplant, bamboo shoots, and green beans."
+        ],
+        "cooking_method": "This is a Thai green curry dish that is made with a paste of green chilies, lemongrass, galangal, garlic, and spices. The curry is cooked with coconut milk, vegetables, and meat (usually chicken or beef) and served with steamed rice.",
+        "name": "Kaeng Khiao Wan",
+        "rating": 4.9,
+        "image": [
+            "https://foodandroad.com/wp-content/uploads/2021/04/thai-green-curry-2.jpg"
+        ]
+    },
+    {
+        "category_id": "5",
+        "_id": "4",
+        "ingredient": [
+            "gg noodles, chicken or beef, and a rich, creamy curry sauce that's made with coconut milk, curry paste, and spices like turmeric and ginger."
+        ],
+        "cooking_method": "This is a Northern Thai curry noodle soup that is made with a blend of spices and coconut milk.",
+        "name": "Khao Soi",
+        "rating": 4.9,
+        "image": [
+            "https://foodandroad.com/wp-content/uploads/2021/04/khao-soi-2.jpg"
+        ]
+    },
+    {
+        "category_id": "6",
+        "_id": "4",
+        "ingredient": [
+            "lemongrass, galangal, kaffir lime leaves, chili paste, and a variety of seafood like shrimp or squid. It's typically served with rice and garnished with fresh herbs like cilantro."
+        ],
+        "cooking_method": "To prepare Tom Yum, first, heat some oil in a pot or wok over medium heat. Then, add lemongrass, galangal, and kaffir lime leaves and sauté for a few minutes until fragrant.Next, add some chicken or shrimp and stir-fry until cooked. Then, add some chicken or vegetable stock, along with fish sauce, lime juice, and chili paste. Bring the soup to a boil and let it simmer for a few minutes to allow the flavors to blend.",
+        "name": "Tom Yum",
+        "rating": 4.9,
+        "image": [
+            "https://foodandroad.com/wp-content/uploads/2021/04/tom-yum-2.jpg"
+        ]
+    },
+    {
+        "category_id": "6",
+        "_id": "4",
+        "ingredient": [
+            "chicken, galangal, lemongrass, kaffir lime leaves, and chili paste"
+        ],
+        "cooking_method": "Add some chicken and stir-fry until cooked. Then, add coconut milk, chicken or vegetable stock, fish sauce, lime juice, and chili paste. Bring the soup to a boil and let it simmer for a few minutes to allow the flavors to blend.",
+        "name": "Tom Kha Gai",
+        "rating": 4.9,
+        "image": [
+            "https://foodandroad.com/wp-content/uploads/2021/04/tom-kha-gai-3.jpg"
+        ]
+    },
+    {
+        "category_id": "6",
+        "_id": "4",
+        "ingredient": [
+            " fish, tamarind paste, chili paste, and a variety of vegetables like tomatoes and green beans."
+        ],
+        "cooking_method": "add some coconut milk, fish or vegetable stock, tamarind paste, and palm sugar. Bring the curry to a boil and let it simmer for a few minutes to allow the flavors to blend.Finally, add some fish or shrimp, along with some vegetables such as cauliflower, eggplant, and long beans. Cook for another 5-10 minutes ",
+        "name": "Kaeng Som",
+        "rating": 4.9,
+        "image": [
+            "https://foodandroad.com/wp-content/uploads/2021/04/thai-south-kaeng-som-2.jpg"
+        ]
+    },
+    {
+        "category_id": "6",
+        "_id": "4",
+        "ingredient": [
+            "shrimp paste, garlic, chilies, fish sauce, sugar, and a variety of vegetables like shallots, cucumbers, and green beans."
+        ],
+        "cooking_method": "To prepare Som Jai stir-frying rice noodles with dark soy sauce and a mix of meats and vegetables in a wok or a large frying pan. The noodles are quickly stir-fried over high heat, which gives them a smoky flavor.",
+        "name": "Som Jai",
+        "rating": 4.9,
+        "image": [
+            "https://foodandroad.com/wp-content/uploads/2021/04/panang-curry-2.jpg"
         ]
     }
+    
 ]
